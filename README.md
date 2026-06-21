@@ -42,3 +42,10 @@ The hydraulic conductivity of the entire aquifer at each segment is calculated i
 data_hydraulic: includes the water levels of the nearby water bodies which are have water exchange with the modeled lake (e.g. other lakes, ponds or ungauged rivers).
 
 data_landuse: land use data to be used in SCS rainfall-runoff model.
+
+## License
+This repository is proprietary. All rights reserved. Access may be granted to reviewers on request — contact behnamzamani@yahoo.com.
+
+## What I contributed
+Developed the entire model, core solver, unit tests, and reproducible notebooks used in the manuscript.
+
