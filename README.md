@@ -1,5 +1,6 @@
 Lake-Aquifer-Catchment exchange model (LACem), ver. 1.31
-Author / Maintainer: Behnam Zamani, Technische Universität Berlin (TU-Berlin)
+=========================================================
+Author/Maintainer: Behnam Zamani, Technische Universität Berlin (TU-Berlin)
 ==============================================================================
 
 The Lake-Aquifer-Catchment exchange model (LACem) is a hydro(geo)logical model, which calculates the hydrological exchange between the lake and its surrounding hydrological system, which includes surface and subsurface hydrological exchanges, atmosphere-cahtchment exchanges and lake-atmosphere exchanges. 
