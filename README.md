@@ -1,5 +1,6 @@
-LACem model description:
-========================
+Lake-Aquifer-Catchment exchange model (LACem), ver. 1.31
+Author / Maintainer: Behnam Zamani, Technische Universität Berlin (TU-Berlin)
+==============================================================================
 
 The Lake-Aquifer-Catchment exchange model (LACem) is a hydro(geo)logical model, which calculates the hydrological exchange between the lake and its surrounding hydrological system, which includes surface and subsurface hydrological exchanges, atmosphere-cahtchment exchanges and lake-atmosphere exchanges. 
 This model is, in an initial step, written specifically for Lake Sacrower See in Berlin/Potsdam area in Germany. However, it may be used for other lakes. In Lake Sacrower See, the Schiffgraben canal, connecting the lake with the nearby Havel river, is an ungauged and rarely flooded canal. It is mostly flooded only when extremely high water levels occur in the Havel occur, or the water level of the lake is very high. The side walls and bottom of the lake are the interface of the lake water body with the surrounding aquifer. Hence, the solid boundary conditions of the model (side walls/bottom) are defined as the groundwater inflow/outflow boundary conditions. 
